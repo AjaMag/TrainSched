@@ -8,7 +8,7 @@
     storageBucket: "trainsched-1aec9.appspot.com",
     messagingSenderId: "287829833476"
   };
-firebase.initializeApp(config);
+  firebase.initializeApp(config);
 
 var database = firebase.database();
 
